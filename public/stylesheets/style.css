@@ -1,0 +1,33 @@
+body {
+padding: 50px;
+font: 32px "Lucida Grande", Helvetica, Arial, sans-serif;
+color:#444;
+background-color:#fff;
+margin:0 auto;
+}
+
+#figure{
+margin-left:30%;
+margin-top:30px;
+position:relative;
+}
+
+#chat-box{
+margin-top:60px;
+padding:5px 20px 10px 20px;
+text-align:center;
+color:#444;
+border:8px solid #666;
+height:320px;
+width:800px;
+overflow:hidden;
+}
+
+.msg{
+height:20px;
+}
+
+#chat-box .msg p{
+width:800px; 
+height:250px; 
+}
